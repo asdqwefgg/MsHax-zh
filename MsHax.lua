@@ -1,5 +1,5 @@
 --=============================--
--- 由Telegram@AiWo6 汉化
+-- 由 Telegram@AiWo6 汉化
 --=============================--
 
 getgenv().LibraryIs = "Obsidian" -- 或 "Linoria"
