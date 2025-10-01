@@ -2,5 +2,5 @@
 外部汉化（不再更新）
 
 ~~~luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHunterSolo1/Op-Ninja-Simulator-/Main/Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/asdqwefgg/MsHax-zh/refs/heads/main/MsHax.lua"))()
 ~~~
