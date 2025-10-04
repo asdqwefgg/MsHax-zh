@@ -4,8 +4,6 @@
 -- 倒卖全家死光光
 --=============================--
 
-getgenv().LibraryIs = "Obsidian" -- 或 "Linoria"
-
 -- 翻译表
 local Translations = {
     ["DOORS"] = "DOORS (🇨🇳)",
